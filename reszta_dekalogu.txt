@@ -1,0 +1,3 @@
+5. Twierdzenie Lamiery-Toppy.
+6. Nie używaj switch case'a
+
