@@ -1,0 +1,5 @@
+Dekalog Lamiera-Toppa (do skonczenia)
+1. Nie ma takiego problemu, którego nie rozwiąże dostateczna ilość if-ów.
+2. Jak czegoś sie nie da zrobić if-em, to nie da się tego w ogóle zrobić.
+3. Kamilek to fajny gość.
+4. Mateo to demon.
